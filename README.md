@@ -1,6 +1,7 @@
 # Plugchain
 
-TODO: Write a gem description
+Plugchain.com is a bitcon blockchain PaaS.
+For full documentation, please check out http://plugchain.com
 
 ## Installation
 
